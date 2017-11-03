@@ -63,7 +63,7 @@ will need to do additional preparation.
 For Ubuntu 16.04 and higher, the Linux kernel includes support for OverlayFS,
 and Docker CE will use the `overlay2` storage driver by default. If you need
 to use `aufs` instead, you need to configure it manually.
-See [aufs](/engine/userguide/storagedriver/aufs-driver.md)
+See [aufs](/engine/userguide/storagedriver/aufs-driver.md).
 
 #### Trusty 14.04
 
